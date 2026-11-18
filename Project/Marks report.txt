@@ -1,0 +1,20 @@
+Marks report
+|--Read the marks ............... readMarks()
+|   '--Read one valid mark ...... readMark()
+|--Work out the results ......... (in main)
+    |--Average .................. average()
+    |--Highest .................. highest()
+    |--Lowest ................... lowest()
+    '--Count the passes.......... countPasses()
+'--Print the report ............. printMarks()
+    '--Grade for one mark ....... grade()
+
+Weekly temperature report
+|--Read the temperatures ...... readTemps()
+|--Print each day ............. printTemps()
+|  '--Name of one day ......... dayName()
+'--Work out the results ....... (in main)
+   |--Average ................. average()
+   |--Hottest ................. hottest()
+   |--Coldest ................. coldest()
+   'Count days at a limit...... countAtleast()
